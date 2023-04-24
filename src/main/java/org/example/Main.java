@@ -1,5 +1,6 @@
 package org.example;
 
+@SpringBootApplication //指定当前项目为一个springboot项目
 public class Main {
     public static void main(String[] args) {
         System.out.println("hello git");
